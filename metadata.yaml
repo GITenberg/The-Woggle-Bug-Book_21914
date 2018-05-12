@@ -1,0 +1,50 @@
+_repo: The-Woggle-Bug-Book_21914
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Morgan, Ike
+    gutenberg_agent_id: '26522'
+    url: http://www.gutenberg.org/2009/agents/26522
+covers:
+- cover_type: archival
+  image_path: 21914-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Fitzgerald, Hugh
+    - Akers, Floyd
+    - Fitzgerald, Capt. Hugh
+    - Metcalf, Suzanne
+    - Baum, Lyman Frank
+    - Van Dyne, Edith
+    - Cooke, John Estes
+    - Bancroft, Laura
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: The Woggle-Bug, a creation from the mind of L. Frank Baum, who also penned
+  the Wizard of Oz series, captivated the United States in the early 1900s. The comical
+  character was a multimedia sensation at the time, appearing in everything from comic
+  strips to books to a live stage show. Though some of the ethnic humor in the book
+  may be somewhat jarring to modern readers, The Woggle-Bug Book remains a captivating
+  read more than 100 years after its initial release.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2007-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress -- Juvenile fiction'
+- !lcsh 'Humorous stories'
+- !lcsh 'Insects -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+title: The Woggle-Bug Book
+url: http://www.gutenberg.org/ebooks/21914
