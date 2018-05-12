@@ -31,6 +31,8 @@ description: The Woggle-Bug, a creation from the mind of L. Frank Baum, who also
   strips to books to a live stage show. Though some of the ethnic humor in the book
   may be somewhat jarring to modern readers, The Woggle-Bug Book remains a captivating
   read more than 100 years after its initial release.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21914#The-Woggle-Bug-Book
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2007-06-23'
 gutenberg_type: Text
